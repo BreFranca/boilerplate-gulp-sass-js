@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate-html-sass-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build",
+    "build-languages": "gulp build-languages"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-minify": "^3.1.0",,
+    "gulp-sass": "^4.1.0",
+    "gulp-sass-variables": "^1.2.0",
+    "gulp-sass-vars": "^1.1.5",
+    "node-bourbon": "^4.2.8",
+  }
+}
