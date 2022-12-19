@@ -19,6 +19,6 @@
     "gulp-sass": "^4.1.0",
     "gulp-sass-variables": "^1.2.0",
     "gulp-sass-vars": "^1.1.5",
-    "node-bourbon": "^4.2.8",
+    "node-bourbon": "^4.2.8"
   }
 }
