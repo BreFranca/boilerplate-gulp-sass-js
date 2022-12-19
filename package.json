@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "gulp": "^4.0.2",
     "gulp-imagemin": "^7.1.0",
-    "gulp-minify": "^3.1.0",,
+    "gulp-minify": "^3.1.0",
     "gulp-sass": "^4.1.0",
     "gulp-sass-variables": "^1.2.0",
     "gulp-sass-vars": "^1.1.5",
